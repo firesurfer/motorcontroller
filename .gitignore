@@ -1,0 +1,11 @@
+*.b#*
+*.s#*
+*.sol
+*.stc
+*.sts
+*.drd
+*.cmp
+*.gpi
+*.zip
+*.plc
+*.dri
